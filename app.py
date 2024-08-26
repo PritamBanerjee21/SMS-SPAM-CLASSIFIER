@@ -6,6 +6,11 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import joblib
 
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+
 wordnetlemmatizer = WordNetLemmatizer()
 
 def transformation(col):
