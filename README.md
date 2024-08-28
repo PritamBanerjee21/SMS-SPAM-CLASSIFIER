@@ -1,6 +1,7 @@
 # SMS Spam Classifier Web App
 
 [Dataset Link] : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 [Live Web App] : https://pritam-sms-spam-classifier.streamlit.app/
 
 ## Table of Contents
